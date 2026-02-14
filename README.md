@@ -15,7 +15,4 @@ Semafor střídá světla zelenou, žlutou a červenou pomocí LED diod, aby sim
 
 ## Ukázka projektu
 
-<video width="480" height="320" controls>
-  <source src="arduino_semafor.mp4" type="video/mp4">
-  Tvůj prohlížeč nepodporuje přehrávání videa.
-</video>
+<iframe width="480" height="320" src="https://www.youtube.com/embed/OVu5Pmlfjg8" frameborder="0" allowfullscreen></iframe>
