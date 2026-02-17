@@ -14,4 +14,4 @@ Semafor střídá světla zelenou, žlutou a červenou pomocí LED diod, aby sim
 ---
 
 ## Ukázka projektu
-https://www.youtube.com/embed/OVu5Pmlfjg8
+https://www.youtube.com/watch?v=OVu5Pmlfjg8
